@@ -1,0 +1,46 @@
+                     JAYWAO PRIVACY LICENSE 1.0
+                     Version 1, 15 November 2018
+
+                 Copyright (C) 2018 Jaywao Software. 
+     Nobody is permitted to download, modify, distribute, steal,
+     or commercially use any of the documents under all conditions.
+     
+                          No exceptions.
+
+This License allows for the work of others to be highly protected 
+and prevented from being stolen and modified as the creator would wish. 
+It allows for the freedom of software developers and collaborators without 
+the worry of their work being distributed without correct permissions.
+
+                       
+                       
+                     --TERMS AND CONDITIONS--
+
+  0. Definitions.
+
+  "This License" refers to version 1 of the Jaywao Privacy License.
+
+  "Copyright" also means copyright-like laws that apply to other kinds of
+works, such as semiconductor masks.
+
+  "work" refers to any copyrightable work licensed under this
+License.  Each licensee is addressed as "you".  "Licensees" and
+"recipients" may be individuals or organizations.
+
+  To "modify" a work means to copy from or adapt all or part of the work
+in a fashion requiring copyright permission, other than the making of an
+exact copy.  The resulting work is called a "modified version" of the
+earlier work or a work "based on" the earlier work.
+
+
+  1. Permissions.
+  
+  You ARE NOT to DOWNLOAD, MODIFY OR COPY ANY of the code within this repository
+  Doing this can result in LEGAL ISSUES which can be very serious depending on the
+  severity of your offence.
+  
+  This work is only licensed to the creator.
+
+ 
+
+                   --END OF TERMS AND CONDITIONS--
